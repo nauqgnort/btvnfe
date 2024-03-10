@@ -1,0 +1,32 @@
+.banner{
+    background-color: blue;
+  color: #fff; 
+  padding: 20px;
+  text-align: center;
+  height: 100px;
+  margin: -10px;
+}
+.nav{
+    background-color: black;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.section{
+    color: yellow;
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+    height: 600px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.footer{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    height: 50px;
+    background-color: black;
+    margin-left: -10px;
+    margin-right: -10px;
+}

@@ -1,0 +1,28 @@
+.box{
+    margin: 65px;
+    width: 350px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 6px 6px 3px gray;
+}
+.box1{
+    width: 335px;
+    height: 70px;
+    background-color: #CCCCCC;
+    
+    color:#0000CC;
+    margin-left: 10px;
+    text-indent: 0;
+}
+.h3{
+    color: green;
+    text-align: center;
+}
+.p{
+    margin-left: 10px;
+    color: red  ;
+}
+.hoa{
+    margin-left: 80px;
+    
+}

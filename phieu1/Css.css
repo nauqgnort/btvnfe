@@ -1,0 +1,16 @@
+.tieude{
+    color: red;
+}
+.bdcolor{
+    background-color:#FFD2FF;
+}
+.h1{
+    text-align: center;
+    color: #4CAF50;
+}
+.paragraph{
+    margin-left: 50px;
+    margin-right: 50px;
+    letter-spacing: 3px;
+    text-indent: 50px;
+}
